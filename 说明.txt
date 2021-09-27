@@ -1,0 +1,7 @@
+## 依赖 ##  
+python >= 3.5  
+pytorch >= 0.4  
+tqdm
+
+## D数据 ##  
+下载CUB_birds数据和注释(http://www.vision.caltech.edu/visipedia/CUB-200-2011.html)。解压至`data/raw/
